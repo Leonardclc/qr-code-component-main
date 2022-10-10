@@ -28,6 +28,6 @@ Flexbox implementation
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Linkedin - 
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/leoweabo)
+- Linkedin - [Leonardo-Lima](https://www.linkedin.com/in/leonardo-lima-correa-7381441b0/)
 
