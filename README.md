@@ -9,8 +9,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
   - [What I learned](#what-i-learned)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -19,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://leoweabo.github.io/qr-code-component-main/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-component-5WQxlGSLEc)
+- Live Site URL: [Live site](https://leoweabo.github.io/qr-code-component-main/)
 
 ### What I learned
 
@@ -28,6 +26,6 @@ Flexbox implementation
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/leoweabo)
+- Frontend Mentor - [@leoweabo](https://www.frontendmentor.io/profile/leoweabo)
 - Linkedin - [Leonardo-Lima](https://www.linkedin.com/in/leonardo-lima-correa-7381441b0/)
 
