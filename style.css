@@ -23,14 +23,14 @@ body {
 .content {
     background-color: white;
     width: 320px;
-    height: 450px;
+    height: 500px;
     border-radius: 15px;
 
 }
 
 img {
-    width: 290px;
-    height: 250px;
+    width: auto;
+    height: 290px;
     border-radius: 10px;
     display: block;
     margin-left: auto;
@@ -44,7 +44,7 @@ h1 {
     width: 250px;
     height: auto;
     position: relative;
-    top: 270px;
+    top: 315px;
     font-weight: 700px;
     display: block;
     margin-left: auto;
@@ -57,7 +57,7 @@ p {
     width: 250px;
     height: auto;
     position: relative;
-    top: 275px;
+    top: 320px;
     font-weight: 400px;
     color: hsl(220, 15%, 55%);
     display: block;
