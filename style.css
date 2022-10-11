@@ -23,9 +23,9 @@ body {
 .content {
     background-color: white;
     width: 320px;
-    height: 500px;
-    border-radius: 15px;
-
+    height: 495px;
+    border-radius: 17px;
+    box-shadow: 5px 10px 25px hsl(220, 15%, 55%);
 }
 
 img {
