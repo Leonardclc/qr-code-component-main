@@ -4,16 +4,20 @@
     box-sizing: border-box;
   }
 
+html, body {
+    height: 100%
+}
+
 body {
     background-color: hsl(212, 45%, 89%);
     font-family: "Outfit";
+    margin: 0;
 }
 
 .wrapper {
-    display: flex;
-    justify-content: center;
-    position: relative;
-    top: 50px;
+    display: grid;
+    place-content: center;
+    height: 100%;
 }
 
 .content {
